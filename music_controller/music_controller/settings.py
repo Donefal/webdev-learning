@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'api.apps.ApiConfig', # API configuration from "music_controller\api\apps.py"
+    'api.apps.ApiConfig', # NOTE: API configuration from "music_controller\api\apps.py"
     'rest_framework'
 ]
 
